@@ -5,4 +5,3 @@ Hello, my name is Velie Sando, and my gender pronouns and she/her. I am a 2nd-ye
 # What I hope to learn
 I hope to learn more about how to effectively convey data heavy information to a crowd of people who unnderstand things at different levels/capacities. Once I graduate, I hope to move to D.C to work in a capacity where I analyze data in a meaningful way to make policy recommendations.
 # Portfolio
-# # Final Project
