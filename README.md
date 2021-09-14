@@ -8,3 +8,5 @@ I hope to learn more about how to effectively convey data-heavy information to a
 # <iframe src="https://data.oecd.org/chart/6sDF" width="750" height="563" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6sDF" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
 # Debt-to-GDP ratio
+The line chaet below depicts the Debt to GDP ratio of 40 countries between 1996-2019
+<div class="flourish-embed flourish-chart" data-src="visualisation/7254924"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
