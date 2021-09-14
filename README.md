@@ -11,3 +11,5 @@ I hope to learn more about how to effectively convey data-heavy information to a
 # Debt-to-GDP line chart
 The line chart below depicts the Debt to GDP ratio of 35 countries between 1996-2019
 <div class="flourish-embed flourish-chart" data-src="visualisation/7254924"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+The next chart depicts the Debt-to-GDP ratio for Australia
+<div class="flourish-embed flourish-chart" data-src="visualisation/7255696"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
