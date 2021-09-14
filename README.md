@@ -5,7 +5,7 @@ Hello, my name is Velie Sando, and my gender pronouns are she/her. I am a 2nd-ye
 # What I hope to learn
 I hope to learn more about how to effectively convey data-heavy information to a crowd of people who unnderstand things at different levels/capacities. Once I graduate, I hope to move to D.C to work in a capacity where I analyze data in a meaningful way to make policy recommendations.
 # Portfolio
-<iframe src="https://data.oecd.org/chart/6sDF" width="750" height="563" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6sDF" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
+# <iframe src="https://data.oecd.org/chart/6sDF" width="750" height="563" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6sDF" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
 # Debt-to-GDP ratio
 The line chart below depicts the Debt to GDP ratio of 40 countries between 1996-2019
