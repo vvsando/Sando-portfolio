@@ -11,4 +11,10 @@
 ![image](https://user-images.githubusercontent.com/89934021/133899379-a7e32172-856a-4fef-a413-9518d630a0fe.png)
 
 # Step 4: Test the Solution
+### Interviewed: Nky
+### Can you tell me what you think this is?
+### Can you describe to me what this is telling you?
+### Is there anything you find surprising or confusing?
+### Who do you think is the intended audience for this?
+### Is there anything you would change or do differently?
 # Step 5: Build your Solution
