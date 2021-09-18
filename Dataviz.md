@@ -7,7 +7,7 @@
 # Step 2: Critique the Data Visualization
 
 # Step 3: Wireframe a Solution
-![image](https://user-images.githubusercontent.com/89934021/133898676-131ab34a-ac18-4b96-80eb-56d707e85bb4.png)
+![image](https://user-images.githubusercontent.com/89934021/133899106-1e786a39-caa4-492b-bc07-5f8c4a0d541f.png)
 
 # Step 4: Test the Solution
 # Step 5: Build your Solution
