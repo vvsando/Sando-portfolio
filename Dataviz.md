@@ -7,7 +7,8 @@
 # Step 2: Critique the Data Visualization
 
 # Step 3: Wireframe a Solution
-![image](https://user-images.githubusercontent.com/89934021/133899106-1e786a39-caa4-492b-bc07-5f8c4a0d541f.png)
+### Below is a sketch of my revised daa visualization design for the chart in step 1. I decided to use a line chart to better illustrate the the cases as they progress by year, and I used different colors to distinguish the mode of transmission. I added the data label to increase clarity for the viewer.
+![image](https://user-images.githubusercontent.com/89934021/133899379-a7e32172-856a-4fef-a413-9518d630a0fe.png)
 
 # Step 4: Test the Solution
 # Step 5: Build your Solution
