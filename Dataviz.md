@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/89934021/133914564-83bb8fbe-d258-438d-b867-cffceba01806.png)
 
 # Step 3: Wireframe a Solution
-### Below is a sketch of my revised daa visualization design for the chart in step 1. I decided to use a line chart to better illustrate the the cases as they progress by year, and I used different colors to distinguish the mode of transmission. I added the data label to increase clarity for the viewer.
+### Below is a sketch of my revised data visualization design for the chart in step 1. I decided to use a line chart to better illustrate trends within the cases as they progress by year, and I used different colors to distinguish the modes of transmission. I added the data label to increase clarity for the viewer.
 ![image](https://user-images.githubusercontent.com/89934021/133899379-a7e32172-856a-4fef-a413-9518d630a0fe.png)
 
 # Step 4: Test the Solution
