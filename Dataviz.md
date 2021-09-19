@@ -14,11 +14,16 @@
 # Step 4: Test the Solution
 ### FEEDBACK #1
 ### Can you tell me what you think this is?
+This is a number new diagnoses from 2012 to 2012, looking at different population groups. Its looking at the trend of new cases of HIV diagnoses each year by population group.
 ### Can you describe to me what this is telling you?
+It's comparing the population groups, and it is sowing an increase or decrease in a trend
 ### Is there anything you find surprising or confusing?
+Undetermined is interesting. Why was there a drastic decrease then increase? What played a part in that? Could that section be broken down?
 ### Who do you think is the intended audience for this?
+This is intended for people who are working in the HIV epidemic field: health care providers, grant-writers, clinic-owners, etc.
 ### Is there anything you would change or do differently?
-
+Define what the "Pediatric" and "Undetermined/Other" modes.
+ 
 ### FEEDBACK #2
 ### Can you tell me what you think this is?
 ### Can you describe to me what this is telling you?
