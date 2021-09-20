@@ -36,3 +36,4 @@ The intended audience might be people in the LGBTQ+ community, and people who ar
 ### Is there anything you would change or do differently?
 I would specify what "undetermined means".
 # Step 5: Build your Solution
+<div class="flourish-embed flourish-chart" data-src="visualisation/7311756"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
