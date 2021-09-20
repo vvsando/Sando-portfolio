@@ -1,7 +1,8 @@
 # Step 1: Find a Data Visualization
-### This chart depicts the number of HIV diagnoses by mode of transmission, pulled from a 2019 report of Pennsylvania's State of Health Equity. I created an excel file with data from the chart, which is also shown below.
+### This chart depicts the number of HIV diagnoses by mode of transmission, pulled from a 2019 report of Pennsylvania's State of Health Equity. I chose this chart because it shows meaningful data is an unmeaningful way, and I wanted to play with the data visualization techniques we have learned to see how I can recreate this in a way that can attract the intended audience. One of my closest friends is an H.I.V patient educator and does a lot of research concerning H.I.V, so i figured I can use her as a reference to determine if my recreation caters to whom the intended audience might be (in this case, my friend)
 ![image](https://user-images.githubusercontent.com/89934021/133898282-5b4a5037-1de7-4203-b181-20185e3b31e5.png)
-### Excel data
+https://www.health.pa.gov/topics/Documents/Health%20Equity/The%20State%20of%20Health%20Equity%20in%20PA%20Report%20FINAL.pdf
+### I created an excel spreadsheet with the data points to use in Flouorish. Here is a screenshot:
 ![image](https://user-images.githubusercontent.com/89934021/133898391-1f400587-42f6-42b4-83a2-df50233b4092.png)
 
 # Step 2: Critique the Data Visualization
