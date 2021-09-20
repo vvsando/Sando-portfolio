@@ -26,8 +26,13 @@ Define what the "Pediatric" and "Undetermined/Other" modes.
  
 ### FEEDBACK #2
 ### Can you tell me what you think this is?
+This is a graph concerning H.I.V.
 ### Can you describe to me what this is telling you?
+It is telling me about different social groups that are contracting H.I.V over a periiod of time.
 ### Is there anything you find surprising or confusing?
+Undetermined is confusing. What does that mean?
 ### Who do you think is the intended audience for this?
+The intended audience might be people in the LGBTQ+ community, and people who are sexually active in general
 ### Is there anything you would change or do differently?
+I would specify what "undetermined means".
 # Step 5: Build your Solution
