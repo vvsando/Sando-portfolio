@@ -44,4 +44,4 @@ I would specify what "undetermined means".
 
 # Step 5: Build your Solution
 <div class="flourish-embed flourish-chart" data-src="visualisation/7311756"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-### My final data visualization chart depicts the Number of Cases of HIV Diagnoses by Mode of Transmission through an interactive line chart that shows the evolution in the cases over the course of 5 years. Anticipating the intended audience to be medical professionals, reasearchers, and policy influencers who may use this data is a means to determine focal areas to mitigate the spread of H.I.V, I wanted to create a visualization that  
+### My final data visualization of the Number of Cases of HIV Diagnoses by Mode of Transmission is an interactive line chart that illustrates the evolution in the cases over the course of 5 years. Anticipating the intended audience to be medical professionals, reasearchers, and policy influencers who may use this data is a means to determine focal areas to mitigate the spread of H.I.V, I wanted to create a visualization that  
