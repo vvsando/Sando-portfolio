@@ -44,4 +44,7 @@ I would specify what "undetermined means".
 
 # Step 5: Build your Solution
 <div class="flourish-embed flourish-chart" data-src="visualisation/7311756"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-### My final data visualization of the Number of Cases of HIV Diagnoses by Mode of Transmission is an interactive line chart that illustrates the evolution in the cases over the course of 5 years. Anticipating the intended audience to be medical professionals, reasearchers, and policy influencers who may use this data is a means to determine focal areas to mitigate the spread of H.I.V, I wanted to create a visualization that  
+### My final data visualization is an interactive line chart that illustrates the evolution in the number of cases over the 5 years of data collected. Anticipating the intended audience to be medical professionals, reasearchers, and policy influencers who may use this data as a means to determine focal areas to mitigate the spread of H.I.V, I wanted to create a chart that allows the viewer to visualize this evolution. The interactive line charts takes the viewer through the change in number of cases while comparing these changes relatively to other modes. Seeing that this chart is part of a 48-page report with lots of pertinent information, it is imperative for viewers to rapidly gather meaningful information from the data visualizations. Unlike the bar chart, the interactive aspect of line chart helps readers quickly determine trends and patterns within the data
+
+Both people I conversed with inidcated that the "undetermined" mode of transmission was confusion; while I could not change the data, I added some text
+
