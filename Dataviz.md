@@ -22,7 +22,7 @@
 ### Can you tell me what you think this is?
 This is a number new diagnoses from 2012 to 2012, looking at different population groups. Its looking at the trend of new cases of HIV diagnoses each year by population group.
 ### Can you describe to me what this is telling you?
-It's comparing the population groups, and it is sowing an increase or decrease in a trend
+It's comparing the population groups, and it is showing an increase or decrease in a trend
 ### Is there anything you find surprising or confusing?
 Undetermined is interesting. Why was there a drastic decrease then increase? What played a part in that? Could that section be broken down?
 ### Who do you think is the intended audience for this?
@@ -44,7 +44,5 @@ I would specify what "undetermined means".
 
 # Step 5: Build your Solution
 <div class="flourish-embed flourish-chart" data-src="visualisation/7311756"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-### My final data visualization is an interactive line chart that illustrates the evolution in the number of cases over the 5 years of data collected. Anticipating the intended audience to be medical professionals, reasearchers, and policy influencers who may use this data as a means to determine focal areas to mitigate the spread of H.I.V, I wanted to create a chart that allows the viewer to visualize this evolution. The interactive line charts takes the viewer through the change in number of cases while comparing these changes relatively to other modes. Seeing that this chart is part of a 48-page report with lots of pertinent information, it is imperative for viewers to rapidly gather meaningful information from the data visualizations. Unlike the bar chart, the interactive aspect of line chart helps readers quickly determine trends and patterns within the data
-
-Both people I conversed with inidcated that the "undetermined" mode of transmission was confusion; while I could not change the data, I added some text
+### My final data visualization is an interactive line chart that illustrates the evolution in the number of cases over the 5 years of data collected. Anticipating the intended audience to be medical professionals, reasearchers, and policy influencers who may use this data as a means to determine focal areas to mitigate the spread of H.I.V, I wanted to create a chart that allows the viewer to visualize this evolution. The interactive line charts takes the viewer through the change in number of cases while comparing these changes relatively to other modes. Seeing that this chart is part of a 48-page report with lots of pertinent information, it is imperative for viewers to rapidly gather meaningful information from the data visualizations. Unlike the bar chart, the interactive aspect of line chart helps readers determine trends and patterns within seconds of analyzing it. Both people I conversed with were able to determine that the chart is meant to depict trends in cases of H.I.V diagnosis for different modes   the "undetermined" mode of transmission was confusion; while I could not change the data, I added some text
 
