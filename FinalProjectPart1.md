@@ -27,7 +27,8 @@ Below is a sketch of the first visualization I have in mind, which depicts the c
 Below is a list of sources 
 
 - https://www.theguardian.com/cities/2018/feb/21/roads-nowhere-infrastructure-american-inequality
+- https://www.washingtonpost.com/climate-environment/interactive/2021/highways-black-homes-removal-racism/
 
-This article illustrates maps and pictures of freeways being build across black neighborhoods. I plan on using these visualizations to recreate a map that shows the locations of the neighborhoods and construction sites.
+These articles illustrate maps and pictures of freeways being build across black neighborhoods. I plan on using these visualizations to recreate a map that shows the locations of the neighborhoods and construction sites.
 
 # METHOD AND MEDIUM
