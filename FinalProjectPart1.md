@@ -18,8 +18,8 @@ Call to Action
 - An invitation to attend TransportationCamp, an event taking place this November to highlight the issues within transportation in the city of Pittsburgh.
 
 # INITIAL SKETCHES
-
-
+Below is a sketch of the first visualization I have in mind, which depicts the correlation between black neighborhoods and freeway construction sites.
+![image](https://user-images.githubusercontent.com/89934021/135138649-96b7b317-8ace-4138-a1e9-f51382e5e090.png)
 
 # DATA
 Below is a list of sources 
