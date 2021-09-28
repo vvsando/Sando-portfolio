@@ -9,10 +9,10 @@ From my presentation, I hope my peers are galvanized to learn more about the int
 - A map of the United States, depicting prominent black communities in the early 1900s and the locations where freeways were constructed. My hope is for the viewers to see how black communities were targeted when these highways were constructed.
 
 2nd Data Viz
--
+- Not sure yet
 
 3rd Data Viz
-
+- Visualization depicting the difference in the economic state of communities affected by highways construction. A contrast between both sides.
 
 Call to Action
 - An invitation to attend TransportationCamp, an event taking place this November to highlight the issues within transportation in the city of Pittsburgh.
