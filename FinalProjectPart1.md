@@ -19,10 +19,13 @@ Call to Action
 
 # INITIAL SKETCHES
 Below is a sketch of the first visualization I have in mind, which depicts the correlation between black neighborhoods and freeway construction sites.
+
 ![image](https://user-images.githubusercontent.com/89934021/135138649-96b7b317-8ace-4138-a1e9-f51382e5e090.png)
 
 # DATA
 Below is a list of sources 
-
+https://www.reuters.com/world/us/us-freeways-flattened-black-neighborhoods-nationwide-2021-05-25/
+https://www.postandcourier.com/news/local_state_news/why-highways-were-designed-to-run-through-black-communities-sc-faces-historic-dilemma-again/article_576f3fce-0976-11eb-a46c-635e6fad5d38.html
+https://www.npr.org/2021/04/07/984784455/a-brief-history-of-how-racism-shaped-interstate-highways
 
 # METHOD AND MEDIUM
