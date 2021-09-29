@@ -32,3 +32,4 @@ Below is a list of sources
 These articles illustrate maps and pictures of freeways being build across black neighborhoods. I plan on using these visualizations to recreate a map that shows the locations of the neighborhoods and construction sites.
 
 # METHOD AND MEDIUM
+To tell my story, I will be using Story Maps. Since my topic is on highway infrastructure, the maps will be ag reat asset o depicts the main points I would like to make. Additionally, I will utilize pictures to illustrate examples of cities that have been destroyed by highways, and use Flourish and/or Tableau to create data visualizations that dpicts the economic effects of highway contruction on both ends. 
