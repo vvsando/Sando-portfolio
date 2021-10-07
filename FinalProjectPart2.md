@@ -24,5 +24,5 @@
 ![image](https://user-images.githubusercontent.com/89934021/136302922-bc31519e-4fc5-451d-8929-15d96d687e3f.png)
 
 
-
 # Next Steps
+From the user feedback, the participants were able to tell the issue that I was trying to convey, and it seems as though all the daa visualizations supported the story to be shared. From the conversations, people suggested illustratinf the data in a different order, which is something I am going to incorporate in my final presentation.
