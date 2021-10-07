@@ -19,6 +19,9 @@
 ![image](https://user-images.githubusercontent.com/89934021/136253630-376c1a49-19c5-4593-9181-d97995c00903.png)
 
 # Interviews
+![image](https://user-images.githubusercontent.com/89934021/136302826-c06825c9-1e89-4d18-b55e-7234bb5d2800.png)
+![image](https://user-images.githubusercontent.com/89934021/136302873-2b3be632-df01-4f60-bf79-45520088fc17.png)
+![image](https://user-images.githubusercontent.com/89934021/136302922-bc31519e-4fc5-451d-8929-15d96d687e3f.png)
 
 
 
