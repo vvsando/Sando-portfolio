@@ -26,3 +26,7 @@ The next chart compares the Debt-to-GDP ratio of the United Kingdom and the Unit
 
 # Final Project Part 2
 [FinalProjectPart2](FinalProjectPart2.md/)
+
+# Final Project Part 3
+[FinalProjectPart3](FinalProjectPart3.md/)
+
