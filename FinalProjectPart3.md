@@ -39,9 +39,9 @@ After having further conversations with my peers, my manager, and my professor, 
 [Greenwood District Paragraph](https://theblackwallsttimes.com/2019/02/26/tulsas-black-history-being-erased-concern-grows-over-the-rapid-gentrification-of-greenwood/)
 
 Greenwood Infographic Info:
-[https://www.tulsapeople.com/city-desk/greenwood-rebirth/article_fed896dc-787c-11eb-9716-2bb94f6d99ac.html]
-[https://www.cnu.org/highways-boulevards/campaign-cities/tulsa-i-244]
-[https://www.nbcnews.com/news/us-news/tulsa-s-greenwood-neighborhood-found-prosperity-after-1921-massacre-then-n1268455]
+[1](https://www.tulsapeople.com/city-desk/greenwood-rebirth/article_fed896dc-787c-11eb-9716-2bb94f6d99ac.html)
+[2](https://www.cnu.org/highways-boulevards/campaign-cities/tulsa-i-244)
+[3](https://www.nbcnews.com/news/us-news/tulsa-s-greenwood-neighborhood-found-prosperity-after-1921-massacre-then-n1268455)
 
 [Jobie Holderness Quote](https://www.nbcnews.com/news/us-news/tulsa-s-greenwood-neighborhood-found-prosperity-after-1921-massacre-then-n1268455)
 
@@ -52,6 +52,6 @@ Greenwood District Pictures:
 
 [Where Does the Money Go? Infographic](https://www.sciencedirect.com/science/article/pii/S2590198221000282)
 
-Who Has Access to Transit? Infographic file:///C:/Users/Velie-Velia%20Sando/Downloads/1-s2.0-S1361920920306489-main.pdf
+Who Has Access to Transit? Infographic: file:///C:/Users/Velie-Velia%20Sando/Downloads/1-s2.0-S1361920920306489-main.pdf
  
 
