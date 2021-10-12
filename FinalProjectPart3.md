@@ -18,11 +18,9 @@ After having further conversations with my peers, my manager, and my professor, 
 [Final Presentation](https://carnegiemellon.shorthandstories.com/the-impact-of-urban-development-on-communities-of-color-across-the-united-states/index.html)
 
 # References
-[Introduction Image](Photo by Marc-Olivier Jodoin on Unsplash)
+[Introduction Image](https://unsplash.com/photos/NqOInJ-ttqM)
 
-What is Redling? Paragraph:
-[https://www.history.com/news/housing-segregation-new-deal-program]
-[https://redlining291756171.wordpress.com/]
+[What is Redling? Paragraph](https://www.history.com/news/housing-segregation-new-deal-program)
 
 [Redlining Infographic](https://ncrc.org/holc/)
 
@@ -40,7 +38,7 @@ What is Redling? Paragraph:
 
 [Greenwood District Paragraph](https://theblackwallsttimes.com/2019/02/26/tulsas-black-history-being-erased-concern-grows-over-the-rapid-gentrification-of-greenwood/)
 
-[Greenwood Infographic Info]
+Greenwood Infographic Info:
 [https://www.tulsapeople.com/city-desk/greenwood-rebirth/article_fed896dc-787c-11eb-9716-2bb94f6d99ac.html]
 [https://www.cnu.org/highways-boulevards/campaign-cities/tulsa-i-244]
 [https://www.nbcnews.com/news/us-news/tulsa-s-greenwood-neighborhood-found-prosperity-after-1921-massacre-then-n1268455]
@@ -48,13 +46,12 @@ What is Redling? Paragraph:
 [Jobie Holderness Quote](https://www.nbcnews.com/news/us-news/tulsa-s-greenwood-neighborhood-found-prosperity-after-1921-massacre-then-n1268455)
 
 Greenwood District Pictures:
-[Photo by  Sidney Patterson on Tulsa History]
-[Photo by  Sidney Patterson on Tulsa History]
-[Photo by  Sidney Patterson on Tulsa History]
+[1](https://tulsahistory.pastperfectonline.com/photo/76BACD54-6E0E-487C-9F5D-253064282018)
+[2](https://tulsahistory.pastperfectonline.com/photo/07448ED3-5214-4F5E-938E-554489430047)
+[3](https://tulsahistory.pastperfectonline.com/photo/F1459673-372D-438A-B079-824025748949)
 
 [Where Does the Money Go? Infographic](https://www.sciencedirect.com/science/article/pii/S2590198221000282)
 
-Who Has Access to Transit? Infographic:
-[file:///C:/Users/Velie-Velia%20Sando/Downloads/1-s2.0-S1361920920306489-main.pdf]
+Who Has Access to Transit? Infographic file:///C:/Users/Velie-Velia%20Sando/Downloads/1-s2.0-S1361920920306489-main.pdf
  
 
