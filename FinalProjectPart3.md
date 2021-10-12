@@ -39,9 +39,9 @@ After having further conversations with my peers, my manager, and my professor, 
 [Greenwood District Paragraph](https://theblackwallsttimes.com/2019/02/26/tulsas-black-history-being-erased-concern-grows-over-the-rapid-gentrification-of-greenwood/)
 
 Greenwood Infographic Info:
-[1](https://www.tulsapeople.com/city-desk/greenwood-rebirth/article_fed896dc-787c-11eb-9716-2bb94f6d99ac.html)
-[2](https://www.cnu.org/highways-boulevards/campaign-cities/tulsa-i-244)
-[3](https://www.nbcnews.com/news/us-news/tulsa-s-greenwood-neighborhood-found-prosperity-after-1921-massacre-then-n1268455)
+[1st picture](https://www.tulsapeople.com/city-desk/greenwood-rebirth/article_fed896dc-787c-11eb-9716-2bb94f6d99ac.html)
+[2nd picture](https://www.cnu.org/highways-boulevards/campaign-cities/tulsa-i-244)
+[3rd picture](https://www.nbcnews.com/news/us-news/tulsa-s-greenwood-neighborhood-found-prosperity-after-1921-massacre-then-n1268455)
 
 [Jobie Holderness Quote](https://www.nbcnews.com/news/us-news/tulsa-s-greenwood-neighborhood-found-prosperity-after-1921-massacre-then-n1268455)
 
