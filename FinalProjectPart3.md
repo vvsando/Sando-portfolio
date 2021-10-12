@@ -14,9 +14,8 @@ After having further conversations with my peers, my manager, and my professor, 
 
 
 ### The Finished Product
-Link to Shorthand presentation:
 
-Final Presentation: [https://carnegiemellon.shorthandstories.com/the-impact-of-urban-development-on-communities-of-color-across-the-united-states/index.html]
+https://carnegiemellon.shorthandstories.com/the-impact-of-urban-development-on-communities-of-color-across-the-united-states/index.html
 
 # References
 [Introduction Image]: Photo by Marc-Olivier Jodoin on Unsplash
