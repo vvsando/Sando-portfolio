@@ -19,8 +19,7 @@ Link to Shorthand presentation:
 [Final Presentation]: https://carnegiemellon.shorthandstories.com/the-impact-of-urban-development-on-communities-of-color-across-the-united-states/index.html]
 
 # References
-Introduction Image: 
-Photo by Marc-Olivier Jodoin on Unsplash
+[Introduction Image]: Photo by Marc-Olivier Jodoin on Unsplash
 
 What is Redling? Paragraph:
 [https://www.history.com/news/housing-segregation-new-deal-program]
