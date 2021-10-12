@@ -15,17 +15,16 @@ After having further conversations with my peers, my manager, and my professor, 
 
 ### The Finished Product
 
-[Presentation](https://carnegiemellon.shorthandstories.com/the-impact-of-urban-development-on-communities-of-color-across-the-united-states/index.html)
+[Final Presentation](https://carnegiemellon.shorthandstories.com/the-impact-of-urban-development-on-communities-of-color-across-the-united-states/index.html)
 
 # References
-[Introduction Image]: Photo by Marc-Olivier Jodoin on Unsplash
+[Introduction Image](Photo by Marc-Olivier Jodoin on Unsplash)
 
 What is Redling? Paragraph:
 [https://www.history.com/news/housing-segregation-new-deal-program]
 [https://redlining291756171.wordpress.com/]
 
-Redlining Infographic:
-[https://ncrc.org/holc/]
+[Redlining Infographic](https://ncrc.org/holc/)
 
 Interstate Highway System Map:
 [https://www.fhwa.dot.gov/interstate/finalmap.cfm]
