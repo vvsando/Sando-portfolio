@@ -39,16 +39,16 @@ After having further conversations with my peers, my manager, and my professor, 
 [Greenwood District Paragraph](https://theblackwallsttimes.com/2019/02/26/tulsas-black-history-being-erased-concern-grows-over-the-rapid-gentrification-of-greenwood/)
 
 Greenwood Infographic Info:
-[1st picture](https://www.tulsapeople.com/city-desk/greenwood-rebirth/article_fed896dc-787c-11eb-9716-2bb94f6d99ac.html)
-[2nd picture](https://www.cnu.org/highways-boulevards/campaign-cities/tulsa-i-244)
-[3rd picture](https://www.nbcnews.com/news/us-news/tulsa-s-greenwood-neighborhood-found-prosperity-after-1921-massacre-then-n1268455)
+[1](https://www.tulsapeople.com/city-desk/greenwood-rebirth/article_fed896dc-787c-11eb-9716-2bb94f6d99ac.html),
+[2](https://www.cnu.org/highways-boulevards/campaign-cities/tulsa-i-244),
+[3](https://www.nbcnews.com/news/us-news/tulsa-s-greenwood-neighborhood-found-prosperity-after-1921-massacre-then-n1268455).
 
 [Jobie Holderness Quote](https://www.nbcnews.com/news/us-news/tulsa-s-greenwood-neighborhood-found-prosperity-after-1921-massacre-then-n1268455)
 
 Greenwood District Pictures:
-[1](https://tulsahistory.pastperfectonline.com/photo/76BACD54-6E0E-487C-9F5D-253064282018)
-[2](https://tulsahistory.pastperfectonline.com/photo/07448ED3-5214-4F5E-938E-554489430047)
-[3](https://tulsahistory.pastperfectonline.com/photo/F1459673-372D-438A-B079-824025748949)
+[1](https://tulsahistory.pastperfectonline.com/photo/76BACD54-6E0E-487C-9F5D-253064282018),
+[2](https://tulsahistory.pastperfectonline.com/photo/07448ED3-5214-4F5E-938E-554489430047),
+[3](https://tulsahistory.pastperfectonline.com/photo/F1459673-372D-438A-B079-824025748949).
 
 [Where Does the Money Go? Infographic](https://www.sciencedirect.com/science/article/pii/S2590198221000282)
 
