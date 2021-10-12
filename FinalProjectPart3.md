@@ -26,42 +26,33 @@ What is Redling? Paragraph:
 
 [Redlining Infographic](https://ncrc.org/holc/)
 
-Interstate Highway System Map:
-[https://www.fhwa.dot.gov/interstate/finalmap.cfm]
+[Interstate Highway System Map](https://www.fhwa.dot.gov/interstate/finalmap.cfm)
 
-Robert Moses Quote:
-[https://www.theatlantic.com/business/archive/2016/03/role-of-highways-in-american-poverty/474282/]
+[Robert Moses Quote](https://www.theatlantic.com/business/archive/2016/03/role-of-highways-in-american-poverty/474282/)
 
-Highway System Paragraph:
-[https://www.vox.com/2015/5/14/8605917/highways-interstate-cities-history]
+[Highway System Paragraph](https://www.vox.com/2015/5/14/8605917/highways-interstate-cities-history)
 
-Where Did People Move To? Paragraph:
-[https://www.theatlantic.com/business/archive/2016/03/role-of-highways-in-american-poverty/474282/]
+[Where Did People Move To? Paragraph](https://www.theatlantic.com/business/archive/2016/03/role-of-highways-in-american-poverty/474282/)
 
-James Baldwin Quote:
-[http://www.janejacobsinthewoo.org/blog/2016/7/7/urban-renewal-as-negro-removal-before-plumley-there-was-laurel-clayton]
+[James Baldwin Quote](http://www.janejacobsinthewoo.org/blog/2016/7/7/urban-renewal-as-negro-removal-before-plumley-there-was-laurel-clayton)
 
-Data Visualization Reference:
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6145815/]
+[Data Visualization Reference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6145815/)
 
-Greenwood District Paragraph:
-[https://theblackwallsttimes.com/2019/02/26/tulsas-black-history-being-erased-concern-grows-over-the-rapid-gentrification-of-greenwood/]
+[Greenwood District Paragraph](https://theblackwallsttimes.com/2019/02/26/tulsas-black-history-being-erased-concern-grows-over-the-rapid-gentrification-of-greenwood/)
 
-Greenwood Infographic Info:
+[Greenwood Infographic Info]
 [https://www.tulsapeople.com/city-desk/greenwood-rebirth/article_fed896dc-787c-11eb-9716-2bb94f6d99ac.html]
 [https://www.cnu.org/highways-boulevards/campaign-cities/tulsa-i-244]
 [https://www.nbcnews.com/news/us-news/tulsa-s-greenwood-neighborhood-found-prosperity-after-1921-massacre-then-n1268455]
 
-Jobie Holderness Quote:
-[https://www.nbcnews.com/news/us-news/tulsa-s-greenwood-neighborhood-found-prosperity-after-1921-massacre-then-n1268455]
+[Jobie Holderness Quote](https://www.nbcnews.com/news/us-news/tulsa-s-greenwood-neighborhood-found-prosperity-after-1921-massacre-then-n1268455)
 
 Greenwood District Pictures:
 [Photo by  Sidney Patterson on Tulsa History]
 [Photo by  Sidney Patterson on Tulsa History]
 [Photo by  Sidney Patterson on Tulsa History]
 
-Where Does the Money Go? Infographic:
-[https://www.sciencedirect.com/science/article/pii/S2590198221000282]
+[Where Does the Money Go? Infographic](https://www.sciencedirect.com/science/article/pii/S2590198221000282)
 
 Who Has Access to Transit? Infographic:
 [file:///C:/Users/Velie-Velia%20Sando/Downloads/1-s2.0-S1361920920306489-main.pdf]
